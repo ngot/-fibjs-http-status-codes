@@ -1,0 +1,26 @@
+{
+  "name": "@fibjs/http-status-codes",
+  "description": "http status codes",
+  "version": "1.0.0",
+  "contributors": [
+    "ngot <zhuanghengfei@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "status",
+    "codes",
+    "http",
+    "fibjs",
+    "js"
+  ],
+  "repository": "ngot/-fibjs-http-status-codes",
+  "files": [
+    "LICENSE",
+    "index.json",
+    "README.md"
+  ],
+  "engines": {
+    "fibjs": ">= 0.1.7"
+  },
+  "scripts": {}
+}
